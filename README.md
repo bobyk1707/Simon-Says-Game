@@ -65,8 +65,4 @@ simon-says-game/
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-Thanks to everyone who has inspired this project. Special mention to all online resources and tutorials that helped me learn the required skills.
-
----
-
-You can customize this README as needed, especially under the "Acknowledgments" and "Future Enhancements" sections.
+Thanks to Shradha khapda ma'am who has inspired this project. Special mention to apna college and sigma batch tutorials that helped me learn the required skills.
