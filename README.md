@@ -1,3 +1,7 @@
+## Live Link --->
+
+https://bobyk1707.github.io/Simon-Says-Game/ 
+
 # Simon-Says-Game
 Here's a sample README file for your "Simon Says" project using HTML, CSS, and JavaScript:
 
